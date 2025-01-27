@@ -4,7 +4,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://maryam-amn.github.io/', // TODO: Change to your github url
+    site: 'https://github.com/maryam-amn', // TODO: Change to your github url
     base: 'progress_report', // TODO: Change to your repo name
     integrations: [starlight({
         title: 'Progress  report',
